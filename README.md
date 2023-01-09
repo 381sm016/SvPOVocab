@@ -1,0 +1,3 @@
+# SvPOVocab
+
+DEPRECATED
